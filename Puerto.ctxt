@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=numeroDeAmarres
+comment0.target=Puerto(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Puerto\r\n
+comment1.params=cliente\ barco\ numeroDeDias
+comment1.target=void\ alquilar(Cliente,\ Barco,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=boolean\ hayAmarresLibres()
+comment3.params=numeroAmarre
+comment3.target=void\ liquidarAmarre(int)
+comment4.params=
+comment4.target=int\ posicionPrimerAmarreLibre()
+comment5.params=
+comment5.target=void\ mostrarEstado()
+numComments=6
